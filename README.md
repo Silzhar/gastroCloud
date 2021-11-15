@@ -16,3 +16,6 @@
 
 - **Building web**
   - ✅ `yarn next build`
+
+### Refresh token github:
+- https://docs.github.com/es/developers/apps/building-github-apps/refreshing-user-to-server-access-tokens#renewing-a-user-token-with-a-refresh-token
